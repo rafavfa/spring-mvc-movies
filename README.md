@@ -1,4 +1,4 @@
-<h1 align="left">Movies API for testing endpoints</h1>
+<h1 align="left">Movies API for testing endpoints using Java/SpringBoot</h1>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
